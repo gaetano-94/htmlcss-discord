@@ -192,22 +192,47 @@ h2 {
 }
 
 .box-xl {
-  width: 800px;
-  height: 700px;
-  background-color: #228b22;
-  border: 2px dashed black;
+  width: 1000px;
+  height: 800px;
+}
+
+.titolo-box-xl {
+  text-align: center;
+}
+
+.text-4 {
+  text-align: center;
+  padding: 20px 70px;
+  font-size: 18px;
+}
+
+.img-xl {
+  width: 1000px;
+  height: 530px;
+}
+
+.finale-main {
+  text-align: center;
+}
+
+h3 {
+  padding-bottom: 30px;
+}
+
+.per-mac {
+  background-color: #7289da;
+  color: white;
 }
 /* /section-4 */
 /* /MAIN */
 
 /* Footer */
 .footer {
-  padding-top: 10px;
-  padding-bottom: 30px;
+  padding-top: 40px;
+  padding-bottom: 40px;
   margin: 0 auto;
   display: flex;
   background-color: #23272a;
-  margin-bottom: 2px;
 }
 
 /* footer-1 */
@@ -220,8 +245,6 @@ h2 {
 
 .col-1 {
   height: 400px;
-  background-color: #f08080;
-  border: 2px dashed black;
   width: 40%;
 }
 
@@ -230,12 +253,36 @@ h2 {
 .col-4,
 .col-5 {
   height: 400px;
-  background-color: #20b2aa;
-  border: 2px dashed wheat;
   width: 15%;
+  color: white;
+  padding: 20px 10px;
+}
+
+#il-tuo-posto {
+  color: #7289d9;
+  padding-bottom: 10px;
+}
+
+.italia {
+  padding-top: 10px;
+  width: 40px;
+  height: 30px;
+}
+
+strong {
+}
+
+.testo-1 {
+  color: #7289d9;
 }
 /* /footer-1 */
 
+.divisorio {
+  display: block;
+  width: 1350px;
+  height: 1px;
+  background-color: #4f5d8c;
+}
 /* footer-2 */
 .footer-bottom {
   background-color: #23272a;
@@ -247,21 +294,21 @@ h2 {
   display: flex;
   max-width: 800px;
   margin: 0 auto;
-  background-color: #7fffd4;
+  background-color: #23272a;
   padding: 10px 0px;
   justify-content: space-between;
 }
 
 .footer-2 .logo {
-  background-color: #ffb6c1;
-  border: 1px dashed black;
   padding: 2px;
 }
 
 .bottone {
-  background-color: #ffb6c1;
-  border: 1px dashed black;
   padding: 2px;
+}
+
+.regi {
+  background-color: #7289da;
 }
 /* /footer-2 */
 /* /Footer */
