@@ -143,7 +143,7 @@ h2 {
 .box-img-1 {
   width: 678px;
   height: 440px;
-  margin-right: 50px;
+  margin-right: 40px;
 }
 /* /Section-1 */
 
@@ -157,6 +157,11 @@ h2 {
   width: 1000px;
   justify-content: flex-end;
 }
+
+.box-img-2 {
+  width: 678px;
+  height: 440px;
+}
 /* /section-2 */
 
 /* section-3 */
@@ -164,6 +169,11 @@ h2 {
   display: flex;
   width: 1000px;
   justify-content: flex-end;
+}
+
+.box-img-3 {
+  width: 678px;
+  height: 450px;
 }
 /* /section-3 */
 
