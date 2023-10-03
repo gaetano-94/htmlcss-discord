@@ -122,14 +122,16 @@ span {
   height: 400px;
   width: 60%;
   background-color: #1e90ff;
-  border: 2px dashed black;
 }
 
 .box-2 {
   height: 400px;
   width: 40%;
   background-color: #ffc0cb;
-  border: 2px dashed black;
+}
+
+h2 {
+  font-size: 30px;
 }
 /* /Section-1 */
 
