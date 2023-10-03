@@ -15,11 +15,6 @@ h1 {
   font-size: 40px;
 }
 
-p {
-  padding-top: 20px;
-  font-size: 18px;
-}
-
 button {
   padding: 10px 10px;
   border-radius: 20px;
@@ -91,6 +86,11 @@ span {
   color: white;
 }
 
+.text-0 {
+  padding-top: 20px;
+  font-size: 18px;
+}
+
 .bottoni-1-2 {
   margin-top: 10px;
 }
@@ -132,6 +132,14 @@ span {
 
 h2 {
   font-size: 30px;
+}
+
+.text-1 {
+  padding-top: 20px;
+  font-size: 18px;
+}
+
+.box-img-1 {
 }
 /* /Section-1 */
 
